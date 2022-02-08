@@ -8,5 +8,5 @@ Source code and datasets for ACL paper "ReInceptionE: Relation-Aware Inception N
 # Running
 
 ```
-python main_train_InceptionE_WN18RR.py
+running.py
 ```
