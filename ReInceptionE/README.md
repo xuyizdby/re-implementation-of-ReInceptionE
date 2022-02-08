@@ -8,5 +8,5 @@ Source code and datasets for ACL paper "ReInceptionE: Relation-Aware Inception N
 # Running
 
 ```
-running.py
+running.ipynb on google colab
 ```
